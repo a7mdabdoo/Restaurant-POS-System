@@ -74,9 +74,7 @@ Restaurant POS System
 
 For full project documentation, see:
 
-```text
 - [Project Documentation](docs/PROJECT_DOCUMENTATION.md)
-```
 ---
 
 # Variables
