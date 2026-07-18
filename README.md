@@ -70,6 +70,13 @@ Restaurant POS System
 └── README.md
 ```
 
+## 📖 Documentation
+
+For full project documentation, see:
+
+```text
+- [Project Documentation](docs/PROJECT_DOCUMENTATION.md)
+```
 ---
 
 # Variables
