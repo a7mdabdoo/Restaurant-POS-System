@@ -22,9 +22,26 @@ A simple Restaurant Point of Sale (POS) System built with **C++**.
 Restaurant POS System
 │
 ├── data/
+│   └── orders.json
+│
 ├── docs/
+│   └── PROJECT_DOCUMENTATION.md
+│
 ├── include/
+│   ├── menu.h
+│   ├── order.h
+│   ├── invoice.h
+│   ├── jsonManager.h
+│   ├── json.hpp
+│   └── data.h
+│
 ├── src/
+│   ├── menu.cpp
+│   ├── order.cpp
+│   ├── invoice.cpp
+│   ├── jsonManager.cpp
+│   └── data.cpp
+│
 ├── main.cpp
 └── README.md
 ```
